@@ -24,7 +24,7 @@ We will use this Journey for our next hands-on exercise: [https://developer.ibm.
 
 Stretch goal: Either:
 
-[Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning] (https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/)
+[Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/)
 
 
 
