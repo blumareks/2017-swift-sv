@@ -4,12 +4,12 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 ## preparation
 Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only).
 
-Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases)
+Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
 ## first steps with Swift on the Server
 Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/)
 
-## Check out the package catalog: https://packagecatalog.com/ 
+## Check out the [Swift Package Catalog] (https://packagecatalog.com/) 
 
 ## (optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
