@@ -7,7 +7,7 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
 ## First steps with Swift on the Server
-Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/) followed by [Swift Package Catalog] (https://packagecatalog.com/) 
+Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/) followed by [Swift Package Catalog](https://packagecatalog.com/) 
 
 ## (Optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
