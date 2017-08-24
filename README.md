@@ -9,7 +9,8 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 ## first steps with Swift on the Server
 Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/)
 
-## Check out the [Swift Package Catalog] (https://packagecatalog.com/) 
+## Check out the Swift Package Catalog
+(https://packagecatalog.com/) 
 
 ## (optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
@@ -17,9 +18,13 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 ## Swift Server as a Service on IBM Cloud
 You can instantiate the Swift Server on IBM Cloud. Go to Bluemix, and create the Swfit service for KITURA: [https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
 
-## Journey with Server Side Swift
-IBM created typical developer journeys for developers coding various applications. These are the journeys with Server Side Swift - the link to journeys: 
+## IBM Developer Journeys with Server Side Swift
+IBM has created a set of developer journeys for developers to helo them create various applications. Here is the limk to the Journeys for Server Side Swift: 
 [https://developer.ibm.com/code/journey/category/swift-on-the-server/](https://developer.ibm.com/code/journey/category/swift-on-the-server/)
+
+## We will use this Journey for our next hands-on exercise: [https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/](Use Swift to interpret unstructured data from Hacker News). And see also the GitHub repository: [https://github.com/IBM/Hackernews-NLU?cm_mc_uid=12995738295115035971662&cm_mc_sid_50200000=1503602915](Use Swift to interpret unstructured data from Hacker News )
+
+
 
 Thank you for using it. Follow us on Twitter:
 [@blumareks](https://twitter.com/blumareks) & [@USABloggen](https://twitter.com/USABloggen)
