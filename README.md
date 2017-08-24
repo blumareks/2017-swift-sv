@@ -9,6 +9,8 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 ## first steps with Swift on the Server
 Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/)
 
+## Check out the package catalog: https://packagecatalog.com/ 
+
 ## (optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
 
