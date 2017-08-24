@@ -2,7 +2,7 @@
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
 ## Preparation
-Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only).
+Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only). There is also a [Lite account] (https://www.ibm.com/cloud-computing/bluemix/standard-account)
 
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
@@ -13,7 +13,7 @@ Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/) followed by [S
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
 
 ## Swift Server as a Service on IBM Cloud
-You can instantiate the Swift Server on IBM Cloud. Go to Bluemix, and create the Swfit service for KITURA: [https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
+You can launch Swift Server on IBM Cloud. Go to Bluemix, and create [the Swift service for Kitura](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
 
 ## IBM Developer Journeys with Server Side Swift
 IBM has created a set of developer journeys for developers to helo them create various applications. Here is the limk to 
