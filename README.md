@@ -13,7 +13,7 @@ Check out the [Swift sandbox](https://swift.sandbox.bluemix.net/)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
 
 ## Swift Server as a Service on IBM Cloud
-You can instantiate the Swift Server on IBM Cloud. Go to Bluemix, and create the Swfit service for KITURA
+You can instantiate the Swift Server on IBM Cloud. Go to Bluemix, and create the Swfit service for KITURA: (https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)[https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps]
 
 ## Journey with Server Side Swift
 IBM created typical developer journeys for developers coding various applications. These are the journeys with Server Side Swift - the link to journeys: 
