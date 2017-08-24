@@ -20,7 +20,7 @@ You can launch Swift Server on IBM Cloud. Go to Bluemix, and create [the Swift s
 
 ##  Hands-on exercise for the truly ambitious
 
-We will use this Journey for our next hands-on exercise: [https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/] (Use Swift to interpret unstructured data from Hacker News). Also the GitHub repository: [https://github.com/IBM/Hackernews-NLU?cm_mc_uid=12995738295115035971662&cm_mc_sid_50200000=1503602915](Use Swift to interpret unstructured data from Hacker News )
+We will use this Journey for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository: [https://github.com/IBM/Hackernews-NLU?cm_mc_uid=12995738295115035971662&cm_mc_sid_50200000=1503602915](Use Swift to interpret unstructured data from Hacker News )
 
 Stretch goal: Either:
 
