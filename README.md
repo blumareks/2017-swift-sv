@@ -20,7 +20,7 @@ You can launch Swift Server on IBM Cloud. Go to Bluemix, and create [the Swift s
 
 ##  Hands-on exercise for the truly ambitious
 
-We will use this Developer Journey for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository [https://github.com/IBM/Hackernews-NLU/](Use Swift to interpret unstructured data from Hacker News)
+We will use this Developer Journey for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository [Use Swift to interpret unstructured data from Hacker News](https://github.com/IBM/Hackernews-NLU)
 
 ##Stretch goal: 
 1) [Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning/](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/), or 
