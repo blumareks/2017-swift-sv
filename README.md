@@ -16,11 +16,11 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 You can launch Swift Server on IBM Cloud. Go to Bluemix, and create [the Swift service for Kitura](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
 
 ## IBM Developer Journeys with Server Side Swift
-[IBM has created a set of developer journeys for developers to help them create various applications/](https://developer.ibm.com/code/journey/category/swift-on-the-server/)
+[IBM has created a set of Developer Journeys for developers to help them create various applications/](https://developer.ibm.com/code/journey/category/swift-on-the-server/)
 
 ##  Hands-on exercise for the truly ambitious
 
-We will use this Developer Journey for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository [Use Swift to interpret unstructured data from Hacker News](https://github.com/IBM/Hackernews-NLU)
+We will use one of these Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository [Use Swift to interpret unstructured data from Hacker News](https://github.com/IBM/Hackernews-NLU)
 
 ##Stretch goal: 
 1) [Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning/](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/), or 
