@@ -25,9 +25,5 @@ We will use one of the Developer Journeys for our next hands-on exercise: [Use S
 2) [Build and deploy an enterprise Swift application that uses multiple services and libraries](https://developer.ibm.com/code/journey/build-an-enterprise-swift-app-using-services/), or 
 3) [Smart picture sharing on the go/](https://developer.ibm.com/code/journey/apply-cognitive-to-mobile-images-on-the-go/)
 
-[Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/) or [Smart picture sharing on the go](https://developer.ibm.com/code/journey/apply-cognitive-to-mobile-images-on-the-go/)
-
-
-
 Thank you for using it. Follow us on Twitter:
 [@blumareks](https://twitter.com/blumareks) & [@USABloggen](https://twitter.com/USABloggen)
