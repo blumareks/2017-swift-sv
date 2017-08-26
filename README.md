@@ -1,6 +1,9 @@
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
+## Background on the Swift Language
+[The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
+
 ## Preparation
 Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only). There is also a [Lite account](https://www.ibm.com/cloud-computing/bluemix/standard-account)
 
