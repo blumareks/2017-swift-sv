@@ -20,7 +20,7 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 
 We will use one of these Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/). Also the GitHub repository [Use Swift to interpret unstructured data from Hacker News](https://github.com/IBM/Hackernews-NLU)
 
-##Stretch goal: 
+## Stretch goal: 
 1) [Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning/](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/), or 
 2) [Build and deploy an enterprise Swift application that uses multiple services and libraries](https://developer.ibm.com/code/journey/build-an-enterprise-swift-app-using-services/), or 
 3) [Smart picture sharing on the go/](https://developer.ibm.com/code/journey/apply-cognitive-to-mobile-images-on-the-go/)
