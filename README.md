@@ -3,6 +3,7 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 
 ## Background on the Swift Language
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
+
 [A Swift Tour](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1)
 
 ## Preparation
