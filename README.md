@@ -57,8 +57,6 @@ Whichever method you use please take he opportunity to check out how your code l
 
 <img src="https://farm5.staticflickr.com/4028/4657437632_d3ac7a017b.jpg">
 
-Hurrray we made it!
-
 ## Stretch goal: For Lab 3, select one of three Developer Journeys below:
 1) [Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning/](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/), or 
 2) [Build and deploy an enterprise Swift application that uses multiple services and libraries](https://developer.ibm.com/code/journey/build-an-enterprise-swift-app-using-services/), or 
