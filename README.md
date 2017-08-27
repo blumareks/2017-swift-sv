@@ -49,7 +49,7 @@ We will use one of the Developer Journeys for our next hands-on exercise: [Use S
 
 <img src="https://farm5.staticflickr.com/4391/36012080094_aff6e1ebea.jpg">
 
-
+<img src="https://farm5.staticflickr.com/4399/36676475452_4b398b2fd7.jpg">
 
 
 ## Stretch goal: For Lab 3, select one of three Developer Journeys below:
