@@ -43,13 +43,14 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 
 [Run the Watson-enabled Hacker News app here](http://lennart-hackernews-nlu-baffling-bandsman.mybluemix.net/)
 
-We will use one of the Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/).
+We will use one of the Developer Journeys for this exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/).
 
 <img src="https://farm5.staticflickr.com/4376/36036955253_7d27aeda85.jpg">
 
 [Let's start with the Githu repository](https://github.com/IBM/Hackernews-NLU)
 
-We can either use the magical Big Blue Deploy to Bluemix button or else deploy the Hackernews-NLU app to Bluemix step by step.
+In the GitHub repo we can either use the magical Big Blue Deploy to Bluemix button or else deploy the Hackernews-NLU app to Bluemix step by step.
+
 Whichever method you use please take he opportunity to check out how your code looks in the Bluemix console (see below)
 
 <img src="https://farm5.staticflickr.com/4399/36676475452_4b398b2fd7.jpg">
