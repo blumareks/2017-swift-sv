@@ -29,15 +29,15 @@ Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/)
 <img src="https://farm5.staticflickr.com/4394/36039596383_21dbf0765f.jpg">
 (https://lennart-kitura-galvanize.mybluemix.net/)
 
-[Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura)
-
-and [the http://www.kitura.io/] (at the Kitura Website)
-
-followed by [Swift Package Catalog](https://packagecatalog.com/) 
+Followed by [Swift Package Catalog](https://packagecatalog.com/) 
 
 <img src="https://farm5.staticflickr.com/4372/36449336690_46a784a18c.jpg">
 
 Lab 1b): Launch Swift on the Server on the IBM Cloud. [the Swift service for Kitura](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
+
+[Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura)
+
+and [the http://www.kitura.io/] (at the Kitura Website)
 
 ## (Optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
