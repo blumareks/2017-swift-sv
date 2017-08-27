@@ -26,6 +26,9 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 <img src="https://farm5.staticflickr.com/4431/36449211700_2637512c4c.jpg">
 Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/) 
 
+[Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura)
+
+
 followed by [Swift Package Catalog](https://packagecatalog.com/) 
 
 <img src="https://farm5.staticflickr.com/4372/36449336690_46a784a18c.jpg">
