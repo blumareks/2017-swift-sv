@@ -6,7 +6,8 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 
 ## Background on the Swift Language
 
-<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">
+<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
+<img src="https://farm5.staticflickr.com/4356/36674633612_4af6e3a0e5.jpg">[https://console.bluemix.net/]
 
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
@@ -17,8 +18,8 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 ## Preparation
 Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only). There is also a [Lite account](https://www.ibm.com/cloud-computing/bluemix/standard-account)
 
-
-<img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">(https://console.bluemix.net/)
+<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
+<img src="https://farm5.staticflickr.com/4356/36674633612_4af6e3a0e5.jpg">[https://console.bluemix.net/]
 
 
 
