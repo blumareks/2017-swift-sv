@@ -41,11 +41,11 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 ## Lab 2 Use Swift to interpret unstructured data from Hacker News
 [YCombinator's Original hackernews](https://news.ycombinator.com/)
 
-[Run Hacker News app here](http://lennart-hackernews-nlu-baffling-bandsman.mybluemix.net/)
+We will use one of the Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/).
+
+[Run the Watson-enabled Hacker News app here](http://lennart-hackernews-nlu-baffling-bandsman.mybluemix.net/)
 
 <img src="https://farm5.staticflickr.com/4376/36036955253_7d27aeda85.jpg">
-
-We will use one of the Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/).
 
 [Let's start with the Githu repository](https://github.com/IBM/Hackernews-NLU)
 
