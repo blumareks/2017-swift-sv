@@ -27,6 +27,9 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/) 
 
 followed by [Swift Package Catalog](https://packagecatalog.com/) 
+
+<img src="https://farm5.staticflickr.com/4372/36449336690_46a784a18c.jpg">
+
 Lab 1b): Launch Swift on the Server on the IBM Cloud. [the Swift service for Kitura](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
 
 ## (Optional) local Swift Server (IBM Kitura)
