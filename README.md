@@ -40,6 +40,8 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 
 ## Lab 2 Use Swift to interpret unstructured data from Hacker News
 
+<img src="https://farm5.staticflickr.com/4376/36036955253_7d27aeda85.jpg">
+
 We will use one of the Developer Journeys for our next hands-on exercise: [Use Swift to interpret unstructured data from Hacker News](https://developer.ibm.com/code/journey/use-swift-interpret-unstructured-data-hacker-news/).
 
 ## Stretch goal: For Lab 3, select one of three Developer Journeys below:
