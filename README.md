@@ -1,5 +1,5 @@
 
-[<img src="https://farm5.staticflickr.com/4337/36010504144_e7fdf1c8e0_z.jpg">]
+<img src="https://farm5.staticflickr.com/4337/36010504144_e7fdf1c8e0_z.jpg">
 
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
