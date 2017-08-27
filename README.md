@@ -59,7 +59,9 @@ Whichever method you use please take he opportunity to check out how your code l
 ### A Look at the Swift Code
 
 [Main.swift](https://github.com/IBM/Hackernews-NLU/blob/master/Sources/main.swift)
+
 [Newsarticles.swift](https://github.com/IBM/Hackernews-NLU/blob/master/Sources/NewsArticles.swift)
+
 [Controller.swift](https://github.com/IBM/Hackernews-NLU/blob/master/Sources/Controller.swift)
 
 
