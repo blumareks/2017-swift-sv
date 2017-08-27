@@ -8,7 +8,6 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 
 <img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
 
-
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
 [A Swift Tour](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1)
@@ -24,7 +23,7 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases/) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
 ## Lab 1 Introduction to Swift on the Server
-<"img src="https://farm5.staticflickr.com/4431/36449211700_2637512c4c.jpg">
+<img src="https://farm5.staticflickr.com/4431/36449211700_2637512c4c.jpg">
 Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/) 
 
 followed by [Swift Package Catalog](https://packagecatalog.com/) 
