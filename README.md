@@ -28,6 +28,7 @@ Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/)
 
 [Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura)
 
+and [the http://www.kitura.io/] (at the Kitura Website)
 
 followed by [Swift Package Catalog](https://packagecatalog.com/) 
 
