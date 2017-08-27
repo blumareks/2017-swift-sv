@@ -47,7 +47,7 @@ We will use one of the Developer Journeys for this exercise: [Use Swift to inter
 
 <img src="https://farm5.staticflickr.com/4376/36036955253_7d27aeda85.jpg">
 
-[Let's start with the Githu repository](https://github.com/IBM/Hackernews-NLU)
+[Let's start with the Github repository](https://github.com/IBM/Hackernews-NLU)
 
 In the GitHub repo we can either use the magical Big Blue Deploy to Bluemix button or else deploy the Hackernews-NLU app to Bluemix step by step.
 
@@ -55,6 +55,9 @@ Whichever method you use please take he opportunity to check out how your code l
 
 <img src="https://farm5.staticflickr.com/4399/36676475452_4b398b2fd7.jpg">
 
+<img src="https://farm5.staticflickr.com/4028/4657437632_d3ac7a017b.jpg">
+
+Hurrray we made it!
 
 ## Stretch goal: For Lab 3, select one of three Developer Journeys below:
 1) [Build a Swift-based mobile chatbot to provide recommendations, reservations, and event planning/](https://developer.ibm.com/code/journey/build-a-cognitive-recommendation-app-with-swift/), or 
