@@ -6,7 +6,7 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 
 ## Background to the Swift Language
 
-<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
+<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">
 
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
