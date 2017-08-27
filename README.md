@@ -5,6 +5,9 @@
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
 ## Background on the Swift Language
+
+<img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">
+
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
 [A Swift Tour](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1)
