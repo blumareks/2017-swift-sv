@@ -23,20 +23,19 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases/) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
 ## Lab 1 Introduction to Swift on the Server
-Lab 1a): Check out the [Swift Sandbox](https://swift.sandbox.bluemix.net/) 
+[Lab 1A: Check out the Swift Sandbox](https://swift.sandbox.bluemix.net/) 
+
 <img src="https://farm5.staticflickr.com/4431/36449211700_2637512c4c.jpg">
 
-Followed by [The Swift Package Catalog](https://packagecatalog.com/) 
+[Lab 1B: Check out the Swift Package Catalog](https://packagecatalog.com/) 
 <img src="https://farm5.staticflickr.com/4372/36449336690_46a784a18c.jpg">
 
-Lab 1b): Launch Swift on the Server on the IBM Cloud. [the Swift service for Kitura](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
+[Lab 1C: check the Swift service for Kitura in the IBM Cloud](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
 
 <img src="https://farm5.staticflickr.com/4394/36039596383_21dbf0765f.jpg">
 (https://lennart-kitura-galvanize.mybluemix.net/)
 
-[Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura)
-
-and [http://www.kitura.io/] (at the Kitura Website)
+[Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura) [and at the](http://www.kitura.io/)
 
 ## (Optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
