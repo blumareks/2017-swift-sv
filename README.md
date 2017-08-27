@@ -4,7 +4,7 @@
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
-## Background on the Swift Language
+## Background to the Swift Language
 
 <img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
 
