@@ -48,7 +48,7 @@ If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitur
 [IBM has created a set of Developer Journeys for developers to help them create various applications/](https://developer.ibm.com/code/journey/category/swift-on-the-server/)
 
 ## Lab 2 Use Swift to interpret unstructured data from Hacker News
-[Run the originsal YCombinator Hackernews here](https://news.ycombinator.com/)
+[Run the originsal Y Combinator Hackernews here](https://news.ycombinator.com/)
 
 [Run the Watson-enabled Hacker News app here](http://lennart-hackernews-nlu-baffling-bandsman.mybluemix.net/)
 
