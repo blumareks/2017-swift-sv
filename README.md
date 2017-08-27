@@ -19,7 +19,7 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 
 
 <img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">(https://console.bluemix.net/)
-<img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">(https://console.bluemix.net/)
+
 
 
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases/) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
