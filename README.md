@@ -32,11 +32,11 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 
 <img src="https://farm5.staticflickr.com/4372/36449336690_46a784a18c.jpg">
 
-[Lab 1C: check the Swift service for Kitura in the IBM Cloud](https://console.bluemix.net/catalog/starters/runtime-for-swift?env_id=ibm%3Ayp%3Aus-south&taxonomyNavigation=apps)
+[Lab 1C: create the Swift service for Kitura in the IBM Cloud](https://console.bluemix.net/catalog/starters/runtime-for-swift)
 
 <img src="https://farm5.staticflickr.com/4394/36039596383_21dbf0765f.jpg">
 
-(https://lennart-kitura-galvanize.mybluemix.net/)
+[Let's run the Swift service for Kiruta in the IBM Cloud](https://lennart-kitura-galvanize.mybluemix.net/)
 
 [Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura) [and at the](http://www.kitura.io/)
 
