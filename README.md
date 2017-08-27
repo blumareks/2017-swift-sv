@@ -19,7 +19,7 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 
 [<img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">](https://console.bluemix.net/)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">](https://console.bluemix.net/)
 
 <img src="https://farm5.staticflickr.com/4356/36674633612_4af6e3a0e5.jpg">[https://console.bluemix.net/]
 
