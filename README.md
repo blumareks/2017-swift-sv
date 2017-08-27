@@ -7,7 +7,7 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 ## Background on the Swift Language
 
 <img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">[https://console.bluemix.net/]
-<img src="https://farm5.staticflickr.com/4356/36674633612_4af6e3a0e5.jpg">[https://console.bluemix.net/]
+
 
 [The Swift Language](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
@@ -20,8 +20,6 @@ Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the a
 
 
 <img src="https://farm5.staticflickr.com/4356/36674633612_4af6e3a0e5.jpg">[https://console.bluemix.net/]
-
-
 
 Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/releases/) You run this command on your computer to interact with apps you are creating in the IBM Bluemix Cloud.
 
