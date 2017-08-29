@@ -4,6 +4,8 @@
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
+# use this link to open this page: ibm.biz/2017-server-side-swift-sv
+
 ## Background to the Swift Language
 
 <img src="https://farm5.staticflickr.com/4389/36674479412_fab6b1f1ed.jpg">
@@ -15,7 +17,7 @@ This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley 
 [Swift Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 ## Preparation
-Please start by signing up for Bluemix: [Bluemix.net](http://bluemix.net) (the access to the services for a trial account is free of charge for 30 days for development purposes only). There is also a [Lite account](https://www.ibm.com/cloud-computing/bluemix/standard-account)
+Please start by signing up for [Bluemix](http://ibm.biz/buildapp082917) (the access to the services for a trial account is free of charge for 30 days for development purposes only). There is also a [Lite account](https://www.ibm.com/cloud-computing/bluemix/standard-account)
 
 [<img src="https://farm5.staticflickr.com/4406/36674633642_e1e0526d7c.jpg">](https://console.bluemix.net/)
 
