@@ -86,5 +86,7 @@ Whichever method you use please take he opportunity to check out how your code l
 2) [Build and deploy an enterprise Swift application that uses multiple services and libraries](https://developer.ibm.com/code/journey/build-an-enterprise-swift-app-using-services/), or 
 3) [Smart picture sharing on the go/](https://developer.ibm.com/code/journey/apply-cognitive-to-mobile-images-on-the-go/)
 
+Please find the link for the survey: [ibm.biz/yourfeedback](http://ibm.biz/yourfeedback)
+
 Thank you for using it. Follow us on Twitter:
 [@blumareks](https://twitter.com/blumareks) & [@USABloggen](https://twitter.com/USABloggen)
