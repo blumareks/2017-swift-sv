@@ -4,7 +4,7 @@
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
-# use this link to open this page: ibm.biz/2017-server-side-swift-sv
+# Use this link to open this page: ibm.biz/2017-server-side-swift-sv
 
 ## Background to the Swift Language
 
