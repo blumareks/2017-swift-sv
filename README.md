@@ -39,12 +39,19 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 
 <img src="https://farm5.staticflickr.com/4394/36039596383_21dbf0765f.jpg">
 
-[Let's run the Swift service for Kiruta in the IBM Cloud](https://lennart-kitura-galvanize.mybluemix.net/)
-
 [Let's look at the Kitura code](https://github.com/IBM-Swift/Kitura) , [and at the Kitura Homepage](http://www.kitura.io/)
 
+## Running Server from IBM Cloud - overview
+[Let's run the Swift service for Kitura in the IBM Cloud](https://lennart-kitura-galvanize.mybluemix.net/)
+
+# Hands-on - Marek
 ## (Optional) local Swift Server (IBM Kitura)
 If you have a Mac with the Xcode 8.3.+ follow this: [kitura.io](http://www.kitura.io/)
+
+## Running Server from IBM Cloud - overview
+[Let's run the Swift service for Kitura in the IBM Cloud](https://lennart-kitura-galvanize.mybluemix.net/)
+
+# Journeys - Lennart
 
 ## IBM Developer Journeys with Server Side Swift
 [IBM has created a set of Developer Journeys for developers to help them create various applications/](https://developer.ibm.com/code/journey/category/swift-on-the-server/)
